@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AndroidLibs.iml" filepath="$PROJECT_DIR$/AndroidLibs.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/flowlayoutmanager/flowlayoutmanager.iml" filepath="$PROJECT_DIR$/flowlayoutmanager/flowlayoutmanager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndroidLibs.iml" filepath="$PROJECT_DIR$/.idea/modules/AndroidLibs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidLibs.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidLibs.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidLibs.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidLibs.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidLibs.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidLibs.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidLibs.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidLibs.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/flowlayoutmanager/AndroidLibs.flowlayoutmanager.iml" filepath="$PROJECT_DIR$/.idea/modules/flowlayoutmanager/AndroidLibs.flowlayoutmanager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/flowlayoutmanager/AndroidLibs.flowlayoutmanager.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/flowlayoutmanager/AndroidLibs.flowlayoutmanager.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/flowlayoutmanager/AndroidLibs.flowlayoutmanager.main.iml" filepath="$PROJECT_DIR$/.idea/modules/flowlayoutmanager/AndroidLibs.flowlayoutmanager.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/flowlayoutmanager/AndroidLibs.flowlayoutmanager.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/flowlayoutmanager/AndroidLibs.flowlayoutmanager.unitTest.iml" />
     </modules>
   </component>
 </project>
